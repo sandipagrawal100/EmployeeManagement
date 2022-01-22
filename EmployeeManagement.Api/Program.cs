@@ -9,6 +9,7 @@ using Microsoft.Extensions.Logging;
 
 namespace EmployeeManagement.Api
 {
+    //Comment line
     public class Program
     {
         public static void Main(string[] args)
